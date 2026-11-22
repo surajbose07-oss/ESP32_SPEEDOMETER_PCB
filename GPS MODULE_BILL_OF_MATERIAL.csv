@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"0.96_OLED_SCREEN1","1","200₹","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal",""
+"ESP_1","1","509₹","","","","","${EXCLUDE_FROM_POS_FILES}","esp32devkit library:Untitled",""
+"GPS_MODULE1","1","300₹","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal",""
+"ROTARY_MODULE1","1","80₹","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal",""
+"SW1","1","5₹","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_THT:SW_PUSH_6mm",""
